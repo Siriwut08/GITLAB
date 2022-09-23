@@ -35,3 +35,8 @@ void main()
   }
   printf("Bye Bye\n"); 
 }
+
+void masteraunpun(){
+  printf("Sha bu AJ.PUN !!! \n");
+  printf("bu Sha !!!!!!!!!! \n");
+}
