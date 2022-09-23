@@ -2,8 +2,8 @@
 #include <string.h>
 void main()
 
-{ char Name[40], G[5], answer[10];
-  int i;
+{ char Name[40], G[5], solution[10];
+  float i;
   do
   {
     printf("What is your Name? ");
